@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding GIF"/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-kumar-gupta-36668b239)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashikumargupta443@gmail.com)
@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack & Skills
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" alt="Tech Stack GIF"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Tech Stack GIF"/>
 
 </div>
 
@@ -61,7 +61,7 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Data Analytics GIF"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Data Analytics GIF"/>
 
 <br/>
 
@@ -84,14 +84,14 @@
 
 ## 🚀 Featured Projects
 
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" alt="Projects GIF"/>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Projects GIF"/>
 
 </div>
 
 ### � [Uber Clone - Full Stack Ride Sharing Platform](https://github.com/shashi162003/Uber-Clone)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" width="250" alt="Uber Clone GIF"/>
+  <img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B2Mo0/giphy.gif" width="250" alt="Uber Clone GIF"/>
 </div>
 
 **� My Flagship Project!** A comprehensive full-stack ride-sharing application with real-time features, location services, and mobile-optimized design - just like Uber!
@@ -117,7 +117,7 @@
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🚗_Live_Demo-FFD700?style=for-the-badge&logo=vercel&logoColor=black)](https://uber-clone-webapp-ten.vercel.app/)
-[![Backend API](https://img.shields.io/badge/⚡_API_Docs-00D4AA?style=for-the-badge&logo=render&logoColor=white)](https://uber-clone-backend-3rbv.onrender.com/)
+[![Documentation](https://img.shields.io/badge/📚_Documentation-00D4AA?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/Uber-Clone#readme)
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Uber-Clone)
 
 </div>
@@ -127,7 +127,7 @@
 ### 🔗 [URL Shortener - Full Stack Application](https://github.com/shashi162003/URL_Shortener)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" alt="URL Shortener GIF"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="URL Shortener GIF"/>
 </div>
 
 **🌟 Professional URL Management!** A sleek full-stack URL shortener with custom links, user authentication, and comprehensive dashboard.
@@ -150,23 +150,47 @@
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://url-shortener-puce-delta.vercel.app/)
-[![Backend API](https://img.shields.io/badge/🔗_API_Docs-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://url-shortener-rk77.onrender.com/)
+[![Documentation](https://img.shields.io/badge/�_Documentation-46E3B7?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/URL_Shortener#readme)
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/URL_Shortener)
 
 </div>
 
 ---
 
-### 🎭 [Testimonial Website](https://shashi162003.github.io/Testimonial-Website/)
+### 😂 [Random Meme Generator](https://github.com/shashi162003/Random_Meme_Generator)
 
-A responsive testimonial website showcasing modern React development practices.
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Meme Generator GIF"/>
+</div>
 
-[![Testimonial Website](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://shashi162003.github.io/Testimonial-Website/)
+**🎉 Fun & Interactive!** A hilarious React application that generates random GIFs and memes using the GIPHY API with search functionality.
+
+#### ✨ Key Features:
+
+- 🎲 **Random GIF Generation** - Get completely random GIFs with a single click
+- 🔍 **Tag-based Search** - Search for specific GIFs by tags and keywords
+- 📱 **Responsive Design** - Beautiful UI with Tailwind CSS styling
+- ⚡ **Fast API Integration** - Smooth GIPHY API integration with Axios
+- 🎨 **Custom React Hooks** - Clean code architecture with reusable hooks
+
+#### 🛠️ Tech Stack:
+
+**Frontend:** React, Vite, Tailwind CSS, Axios
+**API:** GIPHY API for GIF data
+**Deployment:** GitHub Pages
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/😂_Live_Demo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://shashi162003.github.io/Random_Meme_Generator/)
+[![Documentation](https://img.shields.io/badge/📚_Documentation-4CAF50?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/Random_Meme_Generator#readme)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Random_Meme_Generator)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Building GIF"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Building GIF"/>
 
 **🔨 More Exciting Projects Coming Soon!**
 
@@ -180,7 +204,7 @@ _Stay tuned for innovative solutions and creative implementations!_
 
 ## 🎯 Currently Learning & Growing
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="Learning GIF"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Learning GIF"/>
 
 </div>
 
@@ -202,7 +226,7 @@ _Stay tuned for innovative solutions and creative implementations!_
 
 ## 🌱 Let's Collaborate!
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="250" alt="Collaboration GIF"/>
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250" alt="Collaboration GIF"/>
 
 </div>
 
@@ -224,7 +248,7 @@ _Stay tuned for innovative solutions and creative implementations!_
 
 ## 🤝 Let's Connect & Build Something Amazing!
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200" alt="Connect GIF"/>
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200" alt="Connect GIF"/>
 
 ### 📫 Reach Out To Me:
 
@@ -259,7 +283,7 @@ _Stay tuned for innovative solutions and creative implementations!_
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Thank You GIF"/>
+  <img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif" width="150" alt="Thank You GIF"/>
 
 **Thanks for visiting my profile! Let's code the future together! 🚀**
 
