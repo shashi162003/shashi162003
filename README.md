@@ -88,13 +88,49 @@
 
 </div>
 
+### � [Uber Clone - Full Stack Ride Sharing Platform](https://github.com/shashi162003/Uber-Clone)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" width="250" alt="Uber Clone GIF"/>
+</div>
+
+**� My Flagship Project!** A comprehensive full-stack ride-sharing application with real-time features, location services, and mobile-optimized design - just like Uber!
+
+#### ✨ Key Features:
+
+- 🚗 **Real-time Ride Booking** - Book rides with live driver tracking
+- 📍 **Live GPS Tracking** - Real-time location updates with Socket.IO
+- 🗺️ **Google Maps Integration** - Autocomplete search and route optimization
+- 👥 **Dual User Interface** - Separate dashboards for riders and drivers
+- 🔐 **Secure Authentication** - JWT-based auth for users and captains
+- 💰 **Dynamic Pricing** - Smart fare calculation based on distance and vehicle type
+- 📱 **Mobile-First Design** - Optimized for mobile devices with PWA capabilities
+- ⚡ **Real-time Communication** - Instant notifications and status updates
+
+#### 🛠️ Tech Stack:
+
+**Frontend:** React 19, Vite, TailwindCSS 4, Socket.IO Client, Google Maps API, GSAP
+**Backend:** Node.js, Express.js 5, MongoDB, Socket.IO, JWT, bcrypt
+**Real-time:** Socket.IO for live tracking and notifications
+**Deployment:** Vercel (Frontend) + Render (Backend) + MongoDB Atlas
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🚗_Live_Demo-FFD700?style=for-the-badge&logo=vercel&logoColor=black)](https://uber-clone-webapp-ten.vercel.app/)
+[![Backend API](https://img.shields.io/badge/⚡_API_Docs-00D4AA?style=for-the-badge&logo=render&logoColor=white)](https://uber-clone-backend-3rbv.onrender.com/)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Uber-Clone)
+
+</div>
+
+---
+
 ### 🔗 [URL Shortener - Full Stack Application](https://github.com/shashi162003/URL_Shortener)
 
 <div align="center">
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" alt="URL Shortener GIF"/>
 </div>
 
-**🌟 My Latest & Greatest Project!** A comprehensive full-stack URL shortener application with modern tech stack and professional deployment.
+**🌟 Professional URL Management!** A sleek full-stack URL shortener with custom links, user authentication, and comprehensive dashboard.
 
 #### ✨ Key Features:
 
@@ -208,11 +244,17 @@ _Stay tuned for innovative solutions and creative implementations!_
 
 ### 🐍 Watch My Contributions Get Eaten!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashi162003/shashi162003/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashi162003/shashi162003/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shashi162003/shashi162003/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashi162003/shashi162003/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashi162003/shashi162003/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shashi162003/shashi162003/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  <!-- Fallback while snake animation is generating -->
+  <br/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="Snake Game GIF"/>
+</div>
 
 ---
 
