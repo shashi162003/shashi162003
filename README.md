@@ -65,16 +65,16 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashi162003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi162003&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashi162003&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi162003&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&cache_seconds=86400"/>
 
 <br/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi162003&theme=tokyonight&border_radius=10" alt="shashi162003" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=shashi162003&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashi162003&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashi162003&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -184,6 +184,40 @@
 [![Live Demo](https://img.shields.io/badge/😂_Live_Demo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://shashi162003.github.io/Random_Meme_Generator/)
 [![Documentation](https://img.shields.io/badge/📚_Documentation-4CAF50?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/Random_Meme_Generator#readme)
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Random_Meme_Generator)
+
+</div>
+
+---
+
+### 💬 [Chatty - Real-Time Chat Application](https://github.com/shashi162003/Chatty---Real-Time-Chat-App)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Chat App GIF"/>
+</div>
+
+**🚀 Real-Time Communication!** A modern, full-stack chat application with instant messaging, file sharing, and enterprise-level features.
+
+#### ✨ Key Features:
+
+- 💬 **Real-time Messaging** - Instant communication with Socket.IO
+- 👥 **Online User Tracking** - Live user presence and status indicators
+- 🔐 **Secure Authentication** - JWT-based auth with HTTP-only cookies
+- 🖼️ **File Sharing** - Image upload and sharing with Cloudinary
+- 🎨 **Modern UI/UX** - Dark/Light theme with responsive design
+- 🛡️ **Enterprise Error Handling** - Comprehensive logging and recovery
+
+#### 🛠️ Tech Stack:
+
+**Frontend:** React 18, Vite, Tailwind CSS, DaisyUI, Zustand, Socket.IO Client
+**Backend:** Node.js, Express.js, Socket.IO, MongoDB, JWT, Cloudinary
+**Real-time:** Socket.IO for instant messaging and presence
+**Deployment:** Vercel (Frontend) + Render (Backend) + MongoDB Atlas
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/💬_Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://chatty-real-time-chat-app-green.vercel.app/)
+[![Documentation](https://img.shields.io/badge/📚_Documentation-8B5CF6?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/Chatty---Real-Time-Chat-App#readme)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Chatty---Real-Time-Chat-App)
 
 </div>
 
