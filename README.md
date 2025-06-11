@@ -6,6 +6,7 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding GIF"/>
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.devshashi.dev/)
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-kumar-gupta-36668b239)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashikumargupta443@gmail.com)
 [![GitHub](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003)
@@ -88,13 +89,47 @@
 
 </div>
 
-### � [Uber Clone - Full Stack Ride Sharing Platform](https://github.com/shashi162003/Uber-Clone)
+### 🌟 [Interactive 3D Portfolio Website](https://github.com/shashi162003/Portfolio-Website)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKqnN349PBUtGFO/giphy.gif" width="250" alt="Portfolio Website GIF"/>
+</div>
+
+**🎨 Modern & Interactive!** A stunning portfolio website built with React, Three.js, and Framer Motion that showcases my skills and projects through an immersive 3D experience.
+
+#### ✨ Key Features:
+
+- 🎮 **Interactive 3D Experience** - Immersive 3D models and animations powered by Three.js
+- 🎭 **Smooth Animations** - Fluid transitions and micro-interactions using Framer Motion
+- 📱 **Responsive Design** - Perfect viewing experience across all devices
+- 🌓 **Dark Mode** - Eye-friendly dark theme with elegant aesthetics
+- 📄 **Resume Download** - Easy access to download my resume
+- 🚀 **Performance Optimized** - Fast loading times and smooth interactions
+- 🔗 **Interactive Footer** - Quick access to social links and contact information
+
+#### 🛠️ Tech Stack:
+
+**Frontend:** React.js, TailwindCSS, Three.js, Framer Motion
+**Build Tools:** Vite
+**Deployment:** Custom Domain (devshashi.dev)
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.devshashi.dev/)
+[![Documentation](https://img.shields.io/badge/📚_Documentation-46E3B7?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/Portfolio-Website#readme)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Portfolio-Website)
+
+</div>
+
+---
+
+### 🚗 [Uber Clone - Full Stack Ride Sharing Platform](https://github.com/shashi162003/Uber-Clone)
 
 <div align="center">
   <img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B2Mo0/giphy.gif" width="250" alt="Uber Clone GIF"/>
 </div>
 
-**� My Flagship Project!** A comprehensive full-stack ride-sharing application with real-time features, location services, and mobile-optimized design - just like Uber!
+**🛠️ My Flagship Project!** A comprehensive full-stack ride-sharing application with real-time features, location services, and mobile-optimized design - just like Uber!
 
 #### ✨ Key Features:
 
@@ -150,7 +185,7 @@
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://url-shortener-puce-delta.vercel.app/)
-[![Documentation](https://img.shields.io/badge/�_Documentation-46E3B7?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/URL_Shortener#readme)
+[![Documentation](https://img.shields.io/badge/📚_Documentation-46E3B7?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/URL_Shortener#readme)
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/URL_Shortener)
 
 </div>
