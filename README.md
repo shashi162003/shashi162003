@@ -133,16 +133,7 @@
 
 #### ✨ Key Features:
 
-- 🚗 **Real-time Ride Booking** - Book rides with live driver tracking
-- 📍 **Live GPS Tracking** - Real-time location updates with Socket.IO
-- 🗺️ **Google Maps Integration** - Autocomplete search and route optimization
-- 👥 **Dual User Interface** - Separate dashboards for riders and drivers
-- 🔐 **Secure Authentication** - JWT-based auth for users and captains
-- 💰 **Dynamic Pricing** - Smart fare calculation based on distance and vehicle type
-- 📱 **Mobile-First Design** - Optimized for mobile devices with PWA capabilities
-- ⚡ **Real-time Communication** - Instant notifications and status updates
-
-#### 🛠️ Tech Stack:
+#### �️ Tech Stack:
 
 **Frontend:** React 19, Vite, TailwindCSS 4, Socket.IO Client, Google Maps API, GSAP
 **Backend:** Node.js, Express.js 5, MongoDB, Socket.IO, JWT, bcrypt
@@ -153,14 +144,41 @@
 
 [![Live Demo](https://img.shields.io/badge/🚗_Live_Demo-FFD700?style=for-the-badge&logo=vercel&logoColor=black)](https://uber-clone-webapp-ten.vercel.app/)
 [![Documentation](https://img.shields.io/badge/📚_Documentation-00D4AA?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/Uber-Clone#readme)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Uber-Clone)
+[![Source Code](https://img.shields.io/badge/�_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Uber-Clone)
 
 </div>
 
----
+### 📈 [Uptime Robot - Website & API Monitoring Dashboard](https://github.com/shashi162003/Uptime-Robot)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="250" alt="Uptime Robot GIF"/>
+</div>
+
+**� Stay Online!** A modern dashboard to monitor website uptime, downtime, and response times with real-time notifications and beautiful analytics.
+
+#### ✨ Key Features:
+
+- � **Live Status Monitoring** - Track website and API uptime in real-time
+- 🔔 **Instant Alerts** - Get notified via email and dashboard for downtime
+- � **Analytics Dashboard** - Visualize uptime, downtime, and response times
+- 🌐 **Multi-Site Support** - Monitor multiple endpoints easily
+- 🛡️ **Secure & Reliable** - Robust backend with JWT authentication
+- 🎨 **Modern UI** - Responsive, animated dashboard with charts
+
+#### 🛠️ Tech Stack:
+
+**Frontend:** React 19, Vite, TailwindCSS 4, Chart.js, Axios
+**Backend:** Node.js, Express.js 5, MongoDB, JWT
+**Deployment:** Vercel (Frontend) + Render (Backend) + MongoDB Atlas
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/�_Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://uptime-robot-psi.vercel.app/)
+[![Documentation](https://img.shields.io/badge/📚_Documentation-46E3B7?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/Uptime-Robot#readme)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Uptime-Robot)
+
+</div>
 ### 💬 [Chatty - Real-Time Chat Application](https://github.com/shashi162003/Chatty---Real-Time-Chat-App)
-
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Chat App GIF"/>
 </div>
@@ -226,40 +244,8 @@
 
 ---
 
-### 😂 [Random Meme Generator](https://github.com/shashi162003/Random_Meme_Generator)
-
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Meme Generator GIF"/>
-</div>
-
-**🎉 Fun & Interactive!** A hilarious React application that generates random GIFs and memes using the GIPHY API with search functionality.
-
-#### ✨ Key Features:
-
-- 🎲 **Random GIF Generation** - Get completely random GIFs with a single click
-- 🔍 **Tag-based Search** - Search for specific GIFs by tags and keywords
-- 📱 **Responsive Design** - Beautiful UI with Tailwind CSS styling
-- ⚡ **Fast API Integration** - Smooth GIPHY API integration with Axios
-- 🎨 **Custom React Hooks** - Clean code architecture with reusable hooks
-
-#### 🛠️ Tech Stack:
-
-**Frontend:** React, Vite, Tailwind CSS, Axios
-**API:** GIPHY API for GIF data
-**Deployment:** GitHub Pages
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/😂_Live_Demo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://shashi162003.github.io/Random_Meme_Generator/)
-[![Documentation](https://img.shields.io/badge/📚_Documentation-4CAF50?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/Random_Meme_Generator#readme)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Random_Meme_Generator)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Building GIF"/>
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="220" alt="Building GIF"/>
 
 **🔨 More Exciting Projects Coming Soon!**
 
@@ -273,7 +259,7 @@ _Stay tuned for innovative solutions and creative implementations!_
 
 ## 🎯 Currently Learning & Growing
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Learning GIF"/>
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="320" alt="Learning GIF"/>
 
 </div>
 
@@ -295,7 +281,7 @@ _Stay tuned for innovative solutions and creative implementations!_
 
 ## 🌱 Let's Collaborate!
 
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="250" alt="Collaboration GIF"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Collaboration GIF"/>
 
 </div>
 
@@ -317,7 +303,7 @@ _Stay tuned for innovative solutions and creative implementations!_
 
 ## 🤝 Let's Connect & Build Something Amazing!
 
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200" alt="Connect GIF"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Connect GIF"/>
 
 ### 📫 Reach Out To Me:
 
@@ -346,13 +332,13 @@ _Stay tuned for innovative solutions and creative implementations!_
 
   <!-- Fallback while snake animation is generating -->
   <br/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="Snake Game GIF"/>
+  <img src="https://media.giphy.com/media/1xVfQzQzE3Q9K/giphy.gif" width="300" alt="Snake Game GIF"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif" width="150" alt="Thank You GIF"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="150" alt="Thank You GIF"/>
 
 **Thanks for visiting my profile! Let's code the future together! 🚀**
 
