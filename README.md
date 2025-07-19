@@ -133,6 +133,15 @@
 
 #### ✨ Key Features:
 
+- 🚗 **Real-time Ride Booking** - Book rides with live driver tracking
+- 📍 **Live GPS Tracking** - Real-time location updates with Socket.IO
+- 🗺️ **Google Maps Integration** - Autocomplete search and route optimization
+- 👥 **Dual User Interface** - Separate dashboards for riders and drivers
+- 🔐 **Secure Authentication** - JWT-based auth for users and captains
+- 💰 **Dynamic Pricing** - Smart fare calculation based on distance and vehicle type
+- 📱 **Mobile-First Design** - Optimized for mobile devices with PWA capabilities
+- ⚡ **Real-time Communication** - Instant notifications and status updates
+
 #### �️ Tech Stack:
 
 **Frontend:** React 19, Vite, TailwindCSS 4, Socket.IO Client, Google Maps API, GSAP
