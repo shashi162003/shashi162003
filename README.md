@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="400" alt="Modern Coding GIF"/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.devshashi.dev/)
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-kumar-gupta-36668b239)
@@ -62,7 +62,7 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Data Analytics GIF"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdlczcyOWJoNDh0ajVrNTd3enlkbTJtbTU0MXU4dmN2YzM2czRrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zMukICnMEZmSf8zvXd/giphy.gif" width="200" alt="Analytics Visualization GIF"/>
 
 <br/>
 
@@ -92,7 +92,7 @@
 ### 🌟 [Interactive 3D Portfolio Website](https://github.com/shashi162003/Portfolio-Website)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKqnN349PBUtGFO/giphy.gif" width="250" alt="Portfolio Website GIF"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhvNzc4emFieXdybjVsYnpkNGRueGc0NTljZnBheHBpbnlnNjN3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t8QNJ2LngI5OJQN3FP/giphy.gif" width="250" alt="3D Portfolio Website GIF"/>
 </div>
 
 **🎨 Modern & Interactive!** A stunning portfolio website built with React, Three.js, and Framer Motion that showcases my skills and projects through an immersive 3D experience.
@@ -126,7 +126,7 @@
 ### 🚗 [Uber Clone - Full Stack Ride Sharing Platform](https://github.com/shashi162003/Uber-Clone)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B2Mo0/giphy.gif" width="250" alt="Uber Clone GIF"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzk0eGdka3JjZmVpMmRvd3U0aXZoeXU5a3hsbG9rOWc3OGJrMjh5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iqK1YLlIElgTChCUSj/giphy.gif" width="250" alt="Uber Ride Sharing GIF"/>
 </div>
 
 **🛠️ My Flagship Project!** A comprehensive full-stack ride-sharing application with real-time features, location services, and mobile-optimized design - just like Uber!
@@ -157,19 +157,55 @@
 
 </div>
 
-### 📈 [Uptime Robot - Website & API Monitoring Dashboard](https://github.com/shashi162003/Uptime-Robot)
+---
+
+### 🗃️ [Inventory Management System (with offline support)](https://github.com/shashi162003/Flipr-Hackathon-2025---Inventory-Management)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="250" alt="Uptime Robot GIF"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25jdjc5c2U3ZmdpeHpwd3c4YzU2dDRuMjY3aTJ1aXQxcXgyemk2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kqBLtXhz3fEgNYuuvf/giphy.gif" width="250" alt="Inventory Management GIF"/>
 </div>
 
-**� Stay Online!** A modern dashboard to monitor website uptime, downtime, and response times with real-time notifications and beautiful analytics.
+**📦 Robust Inventory Management!** A full-featured inventory management system with offline-first capabilities, real-time sync, and analytics dashboard. Built for Flipr Hackathon 2025.
 
 #### ✨ Key Features:
 
-- � **Live Status Monitoring** - Track website and API uptime in real-time
+- 📦 **Offline Support** - Manage inventory even without internet, auto-syncs when online
+- 🏷️ **Product & Category Management** - Add, edit, and organize products and categories
+- 📊 **Analytics Dashboard** - Visualize stock, sales, and trends
+- 🔄 **Real-time Sync** - Seamless updates across devices
+- 👥 **User Roles** - Admin, staff, and viewer permissions
+- 🛡️ **Secure Auth** - JWT-based authentication
+- 📱 **Mobile Responsive** - Works great on all devices
+
+#### 🛠️ Tech Stack:
+
+**Frontend:** React, Vite, TailwindCSS, Redux Toolkit, Workbox (PWA)
+**Backend:** Node.js, Express.js, MongoDB, JWT
+**Deployment:** Vercel (Frontend) + Render (Backend) + MongoDB Atlas
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🗃️_Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://inventory-management-topaz-tau.vercel.app/)
+[![Documentation](https://img.shields.io/badge/📚_Documentation-46E3B7?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/Flipr-Hackathon-2025---Inventory-Management#readme)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Flipr-Hackathon-2025---Inventory-Management)
+
+</div>
+
+---
+
+### 📈 [Uptime Robot - Website & API Monitoring Dashboard](https://github.com/shashi162003/Uptime-Robot)
+
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2syZjFnd2tkNnhlYXRzNjdtMXE4d3A0bGgwajhjb2JuOWV0bnZ4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v66VV7q1BUI54TG8tp/giphy.gif" width="250" alt="Uptime Monitoring GIF"/>
+</div>
+
+**🔔 Stay Online!** A modern dashboard to monitor website uptime, downtime, and response times with real-time notifications and beautiful analytics.
+
+#### ✨ Key Features:
+
+- 📊 **Live Status Monitoring** - Track website and API uptime in real-time
 - 🔔 **Instant Alerts** - Get notified via email and dashboard for downtime
-- � **Analytics Dashboard** - Visualize uptime, downtime, and response times
+- 📈 **Analytics Dashboard** - Visualize uptime, downtime, and response times
 - 🌐 **Multi-Site Support** - Monitor multiple endpoints easily
 - 🛡️ **Secure & Reliable** - Robust backend with JWT authentication
 - 🎨 **Modern UI** - Responsive, animated dashboard with charts
@@ -182,14 +218,18 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/�_Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://uptime-robot-psi.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/📈_Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://uptime-robot-psi.vercel.app/)
 [![Documentation](https://img.shields.io/badge/📚_Documentation-46E3B7?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/Uptime-Robot#readme)
 [![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Uptime-Robot)
 
 </div>
-### 💬 [Chatty - Real-Time Chat Application](https://github.com/shashi162003/Chatty---Real-Time-Chat-App)
+
+---
+
+### 📈 [Chatty - Real Time Chat App](https://github.com/shashi162003/Chatty---Real-Time-Chat-App)
+  
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Chat App GIF"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5laWd3ZzVxaHljdzljbXNiaGYzYXYxbmRkMGUzNnBsd2pwYWVpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNw1j4XYgeiuOpZ9JX/giphy.gif" width="200" alt="Chat Application GIF"/>
 </div>
 
 **🚀 Real-Time Communication!** A modern, full-stack chat application with instant messaging, file sharing, and enterprise-level features.
@@ -223,7 +263,7 @@
 ### 🔗 [URL Shortener - Full Stack Application](https://github.com/shashi162003/URL_Shortener)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="URL Shortener GIF"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGkzdXpta3Q5MWl1YTlkNmNwOWEzbndxaXMwOHg1N3FyZmkzNTl3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VJHYCaFRSlE8G9wqyw/giphy.gif" width="200" alt="URL Shortener GIF"/>
 </div>
 
 **🌟 Professional URL Management!** A sleek full-stack URL shortener with custom links, user authentication, and comprehensive dashboard.
@@ -290,7 +330,7 @@ _Stay tuned for innovative solutions and creative implementations!_
 
 ## 🌱 Let's Collaborate!
 
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Collaboration GIF"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpzMjN3bHA5bDczbG14cDc0d2FpcnVmMW9nNmpiZ3p5ZHdsb3NjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RVpcIhl5VwLK6jWbYc/giphy.gif" width="250" alt="Collaboration GIF"/>
 
 </div>
 
@@ -312,7 +352,7 @@ _Stay tuned for innovative solutions and creative implementations!_
 
 ## 🤝 Let's Connect & Build Something Amazing!
 
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Connect GIF"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxnNHV2dW9zanM5eHFsYzE1bWFiYnJuNmI2bXBrdjNmbDJ3dnVteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwHaQCGZMdD9Ghalrl/giphy.gif" width="200" alt="Connect GIF"/>
 
 ### 📫 Reach Out To Me:
 
@@ -341,17 +381,6 @@ _Stay tuned for innovative solutions and creative implementations!_
 
   <!-- Fallback while snake animation is generating -->
   <br/>
-  <img src="https://media.giphy.com/media/1xVfQzQzE3Q9K/giphy.gif" width="300" alt="Snake Game GIF"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="150" alt="Thank You GIF"/>
-
-**Thanks for visiting my profile! Let's code the future together! 🚀**
-
-  <img src="https://komarev.com/ghpvc/?username=shashi162003&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</div>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBlZW1xMmNibHJoYWk2ejNkczhwa2FudTR1azVucW0zdnN6ZjQ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FPDZV2JGkNGeUZdi7G/giphy.gif" width="300" alt="Snake Game GIF"/>
 
 </div>
