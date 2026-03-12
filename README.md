@@ -143,16 +143,6 @@ A full-stack inventory platform that works entirely offline, syncing automatical
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=shashi162003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
-
----
-
 ## 🐍 Contribution Activity
 
 <div align="center">
