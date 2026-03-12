@@ -1,386 +1,184 @@
 <div align="center">
 
-# 👋 Hello World! I'm Shashi Kumar Gupta
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Shashi%20Kumar%20Gupta&fontSize=48&fontColor=e94560&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Java%20%7C%20Spring%20Boot%20%7C%20Cloud&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
+[![Profile Views](https://komarev.com/ghpvc/?username=shashi162003&style=for-the-badge&color=e94560&label=PROFILE+VIEWS)](https://github.com/shashi162003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-kumar-gupta-36668b239)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-e94560?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/shashi162003)
 
-<img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="400" alt="Modern Coding GIF"/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.devshashi.dev/)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-kumar-gupta-36668b239)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashikumargupta443@gmail.com)
-[![GitHub](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003)
-[![Profile Views](https://komarev.com/ghpvc/?username=shashi162003&style=for-the-badge&color=blueviolet)](https://github.com/shashi162003)
+![Open to Opportunities](https://img.shields.io/badge/🟢_Open_to_Opportunities-Backend_%7C_Full--Stack_%7C_Cloud_Roles-0f3460?style=for-the-badge)
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-## 🛠️ Tech Stack & Skills
+```java
+public class Shashi extends BackendEngineer {
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Tech Stack GIF"/>
+    private final String[] currentFocus  = { "Microservices", "Cloud-Native APIs", "Distributed Systems" };
+    private final String[] learning      = { "Kubernetes", "System Design", "Event-Driven Architecture" };
+    private final String   worksWith     = "Java · Spring Boot · PostgreSQL · Docker · AWS · GCP";
+    private final String   reachMe      = "shashikumargupta443@gmail.com";
 
-</div>
-
-### 🎨 Frontend Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-</p>
-
-### ⚙️ Backend & Databases
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-</p>
+    @Override
+    public String getPhilosophy() {
+        return "Build systems that scale gracefully — start simple, evolve deliberately.";
+    }
+}
+```
 
 ---
 
+## 🛠️ Tech Stack
+
 <div align="center">
 
-## 📊 GitHub Analytics
+**Languages & Frameworks**
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdlczcyOWJoNDh0ajVrNTd3enlkbTJtbTU0MXU4dmN2YzM2czRrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zMukICnMEZmSf8zvXd/giphy.gif" width="200" alt="Analytics Visualization GIF"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br/>
+**Databases & Messaging**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashi162003&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi162003&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&cache_seconds=86400"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<br/>
+**Infrastructure & Cloud**
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=shashi162003&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashi162003&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph"/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 🚀 Featured Projects
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Projects GIF"/>
+### 🏨 Hotel Booking & Management System
+> *Production-grade REST API with end-to-end CI/CD — live on AWS*
+
+A scalable hotel booking backend featuring a multi-step booking engine, Stripe payment integration, and a fully automated deployment pipeline. Built with Spring Boot and deployed to AWS Elastic Beanstalk backed by RDS PostgreSQL.
+
+| | |
+|---|---|
+| **Key highlights** | Multi-step booking flow · Stripe webhooks · JWT auth · Surge pricing · Admin reporting |
+| **Infrastructure** | AWS EB · AWS RDS · AWS S3 · CodePipeline + CodeBuild |
+| **Live docs** | [Swagger UI ↗](http://airbnb-env.eba-tq7y6xxg.ap-south-1.elasticbeanstalk.com/api/v1/swagger-ui/index.html) |
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/shashi162003/Scalable-Hotel-Booking-Management-Backend)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+---
+
+### 🔗 LinkedIn-like Microservices Platform
+> *Event-driven social platform deployed on GKE Autopilot*
+
+A LinkedIn-inspired social network built with five independent microservices, Apache Kafka for async events, Neo4j for the connection graph, and Spring Cloud Gateway for unified routing. Deployable both locally via Docker Compose and to Kubernetes on GKE.
+
+| | |
+|---|---|
+| **Key highlights** | 5 decoupled services · Kafka event bus · Neo4j connection graph · JWT gateway · GKE Autopilot |
+| **Infrastructure** | Docker Compose (local) · Kubernetes GKE · Eureka / kube-dns service discovery |
+| **Ports** | Gateway `:8080` · Eureka `:8761` · Kafka UI `:8090` · Neo4j `:7474` |
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/shashi162003/linkedin-microservices)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+---
+
+### 📦 InvTrack — AI-Powered Inventory Management System
+> *Offline-first MERN app with OpenAI integration — live on Vercel + Render*
+
+A full-stack inventory platform that works entirely offline, syncing automatically when connectivity is restored. Features an OpenAI-powered chatbot, natural language search, AI pricing suggestions, and role-based access for Admin and Staff.
+
+| | |
+|---|---|
+| **Key highlights** | Offline-first (IndexedDB) · OpenAI chatbot · NL search · Barcode scanning · CSV/JSON export |
+| **Infrastructure** | Vercel (frontend) · Render (backend) · MongoDB Atlas · Cloudinary |
+| **Live demo** | [inventory-management-topaz-tau.vercel.app ↗](https://inventory-management-topaz-tau.vercel.app/) |
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/shashi162003/InvTrack)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-e94560?style=for-the-badge&logo=vercel&logoColor=white)](https://inventory-management-topaz-tau.vercel.app/)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashi162003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&ring_color=e94560"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi162003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&langs_count=8"/>
 
 </div>
 
-### 🌟 [Interactive 3D Portfolio Website](https://github.com/shashi162003/Portfolio-Website)
-
-<div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhvNzc4emFieXdybjVsYnpkNGRueGc0NTljZnBheHBpbnlnNjN3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t8QNJ2LngI5OJQN3FP/giphy.gif" width="250" alt="3D Portfolio Website GIF"/>
-</div>
-
-**🎨 Modern & Interactive!** A stunning portfolio website built with React, Three.js, and Framer Motion that showcases my skills and projects through an immersive 3D experience.
-
-#### ✨ Key Features:
-
-- 🎮 **Interactive 3D Experience** - Immersive 3D models and animations powered by Three.js
-- 🎭 **Smooth Animations** - Fluid transitions and micro-interactions using Framer Motion
-- 📱 **Responsive Design** - Perfect viewing experience across all devices
-- 🌓 **Dark Mode** - Eye-friendly dark theme with elegant aesthetics
-- 📄 **Resume Download** - Easy access to download my resume
-- 🚀 **Performance Optimized** - Fast loading times and smooth interactions
-- 🔗 **Interactive Footer** - Quick access to social links and contact information
-
-#### 🛠️ Tech Stack:
-
-**Frontend:** React.js, TailwindCSS, Three.js, Framer Motion
-**Build Tools:** Vite
-**Deployment:** Custom Domain (devshashi.dev)
-
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.devshashi.dev/)
-[![Documentation](https://img.shields.io/badge/📚_Documentation-46E3B7?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/Portfolio-Website#readme)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Portfolio-Website)
+![GitHub Streak](https://streak-stats.demolab.com?user=shashi162003&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560)
 
 </div>
 
 ---
 
-### 🚗 [Uber Clone - Full Stack Ride Sharing Platform](https://github.com/shashi162003/Uber-Clone)
-
-<div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzk0eGdka3JjZmVpMmRvd3U0aXZoeXU5a3hsbG9rOWc3OGJrMjh5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iqK1YLlIElgTChCUSj/giphy.gif" width="250" alt="Uber Ride Sharing GIF"/>
-</div>
-
-**🛠️ My Flagship Project!** A comprehensive full-stack ride-sharing application with real-time features, location services, and mobile-optimized design - just like Uber!
-
-#### ✨ Key Features:
-
-- 🚗 **Real-time Ride Booking** - Book rides with live driver tracking
-- 📍 **Live GPS Tracking** - Real-time location updates with Socket.IO
-- 🗺️ **Google Maps Integration** - Autocomplete search and route optimization
-- 👥 **Dual User Interface** - Separate dashboards for riders and drivers
-- 🔐 **Secure Authentication** - JWT-based auth for users and captains
-- 💰 **Dynamic Pricing** - Smart fare calculation based on distance and vehicle type
-- 📱 **Mobile-First Design** - Optimized for mobile devices with PWA capabilities
-- ⚡ **Real-time Communication** - Instant notifications and status updates
-
-#### �️ Tech Stack:
-
-**Frontend:** React 19, Vite, TailwindCSS 4, Socket.IO Client, Google Maps API, GSAP
-**Backend:** Node.js, Express.js 5, MongoDB, Socket.IO, JWT, bcrypt
-**Real-time:** Socket.IO for live tracking and notifications
-**Deployment:** Vercel (Frontend) + Render (Backend) + MongoDB Atlas
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🚗_Live_Demo-FFD700?style=for-the-badge&logo=vercel&logoColor=black)](https://uber-clone-webapp-ten.vercel.app/)
-[![Documentation](https://img.shields.io/badge/📚_Documentation-00D4AA?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/Uber-Clone#readme)
-[![Source Code](https://img.shields.io/badge/�_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Uber-Clone)
+![Trophies](https://github-profile-trophy.vercel.app/?username=shashi162003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
 ---
 
-### 🗃️ [Inventory Management System (with offline support)](https://github.com/shashi162003/Flipr-Hackathon-2025---Inventory-Management)
-
-<div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25jdjc5c2U3ZmdpeHpwd3c4YzU2dDRuMjY3aTJ1aXQxcXgyemk2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kqBLtXhz3fEgNYuuvf/giphy.gif" width="250" alt="Inventory Management GIF"/>
-</div>
-
-**📦 Robust Inventory Management!** A full-featured inventory management system with offline-first capabilities, real-time sync, and analytics dashboard. Built for Flipr Hackathon 2025.
-
-#### ✨ Key Features:
-
-- 📦 **Offline Support** - Manage inventory even without internet, auto-syncs when online
-- 🏷️ **Product & Category Management** - Add, edit, and organize products and categories
-- 📊 **Analytics Dashboard** - Visualize stock, sales, and trends
-- 🔄 **Real-time Sync** - Seamless updates across devices
-- 👥 **User Roles** - Admin, staff, and viewer permissions
-- 🛡️ **Secure Auth** - JWT-based authentication
-- 📱 **Mobile Responsive** - Works great on all devices
-
-#### 🛠️ Tech Stack:
-
-**Frontend:** React, Vite, TailwindCSS, Redux Toolkit, Workbox (PWA)
-**Backend:** Node.js, Express.js, MongoDB, JWT
-**Deployment:** Vercel (Frontend) + Render (Backend) + MongoDB Atlas
+## 🐍 Contribution Activity
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🗃️_Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://inventory-management-topaz-tau.vercel.app/)
-[![Documentation](https://img.shields.io/badge/📚_Documentation-46E3B7?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/Flipr-Hackathon-2025---Inventory-Management#readme)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Flipr-Hackathon-2025---Inventory-Management)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashi162003/shashi162003/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashi162003/shashi162003/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/shashi162003/shashi162003/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
 ---
 
-### 📈 [Uptime Robot - Website & API Monitoring Dashboard](https://github.com/shashi162003/Uptime-Robot)
-
-<div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2syZjFnd2tkNnhlYXRzNjdtMXE4d3A0bGgwajhjb2JuOWV0bnZ4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v66VV7q1BUI54TG8tp/giphy.gif" width="250" alt="Uptime Monitoring GIF"/>
-</div>
-
-**🔔 Stay Online!** A modern dashboard to monitor website uptime, downtime, and response times with real-time notifications and beautiful analytics.
-
-#### ✨ Key Features:
-
-- 📊 **Live Status Monitoring** - Track website and API uptime in real-time
-- 🔔 **Instant Alerts** - Get notified via email and dashboard for downtime
-- 📈 **Analytics Dashboard** - Visualize uptime, downtime, and response times
-- 🌐 **Multi-Site Support** - Monitor multiple endpoints easily
-- 🛡️ **Secure & Reliable** - Robust backend with JWT authentication
-- 🎨 **Modern UI** - Responsive, animated dashboard with charts
-
-#### 🛠️ Tech Stack:
-
-**Frontend:** React 19, Vite, TailwindCSS 4, Chart.js, Axios
-**Backend:** Node.js, Express.js 5, MongoDB, JWT
-**Deployment:** Vercel (Frontend) + Render (Backend) + MongoDB Atlas
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/📈_Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://uptime-robot-psi.vercel.app/)
-[![Documentation](https://img.shields.io/badge/📚_Documentation-46E3B7?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/Uptime-Robot#readme)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Uptime-Robot)
+If you're working on something interesting in backend systems, distributed architecture, or cloud infrastructure — I'd love to connect.
 
-</div>
-
----
-
-### 📈 [Chatty - Real Time Chat App](https://github.com/shashi162003/Chatty---Real-Time-Chat-App)
-  
-<div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5laWd3ZzVxaHljdzljbXNiaGYzYXYxbmRkMGUzNnBsd2pwYWVpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNw1j4XYgeiuOpZ9JX/giphy.gif" width="200" alt="Chat Application GIF"/>
-</div>
-
-**🚀 Real-Time Communication!** A modern, full-stack chat application with instant messaging, file sharing, and enterprise-level features.
-
-#### ✨ Key Features:
-
-- 💬 **Real-time Messaging** - Instant communication with Socket.IO
-- 👥 **Online User Tracking** - Live user presence and status indicators
-- 🔐 **Secure Authentication** - JWT-based auth with HTTP-only cookies
-- 🖼️ **File Sharing** - Image upload and sharing with Cloudinary
-- 🎨 **Modern UI/UX** - Dark/Light theme with responsive design
-- 🛡️ **Enterprise Error Handling** - Comprehensive logging and recovery
-
-#### 🛠️ Tech Stack:
-
-**Frontend:** React 18, Vite, Tailwind CSS, DaisyUI, Zustand, Socket.IO Client
-**Backend:** Node.js, Express.js, Socket.IO, MongoDB, JWT, Cloudinary
-**Real-time:** Socket.IO for instant messaging and presence
-**Deployment:** Vercel (Frontend) + Render (Backend) + MongoDB Atlas
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/💬_Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://chatty-real-time-chat-app-green.vercel.app/)
-[![Documentation](https://img.shields.io/badge/📚_Documentation-8B5CF6?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/Chatty---Real-Time-Chat-App#readme)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/Chatty---Real-Time-Chat-App)
-
-</div>
-
----
-
-### 🔗 [URL Shortener - Full Stack Application](https://github.com/shashi162003/URL_Shortener)
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGkzdXpta3Q5MWl1YTlkNmNwOWEzbndxaXMwOHg1N3FyZmkzNTl3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VJHYCaFRSlE8G9wqyw/giphy.gif" width="200" alt="URL Shortener GIF"/>
-</div>
-
-**🌟 Professional URL Management!** A sleek full-stack URL shortener with custom links, user authentication, and comprehensive dashboard.
-
-#### ✨ Key Features:
-
-- 🔐 **User Authentication** - Secure JWT-based login/signup system
-- 🎨 **Custom URLs** - Create personalized short links with custom names
-- 📊 **User Dashboard** - Manage and view all your created URLs
-- 📱 **Responsive Design** - Seamless experience across all devices
-- ⚡ **Real-time Updates** - Instant feedback with loading states
-- 🔄 **One-click Copy** - Easy sharing with clipboard integration
-
-#### 🛠️ Tech Stack:
-
-**Frontend:** React 19, Vite, TailwindCSS 4, React Query, Axios
-**Backend:** Node.js, Express.js 5, MongoDB, Mongoose, JWT, bcrypt
-**Deployment:** Vercel (Frontend) + Render (Backend) + MongoDB Atlas
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://url-shortener-puce-delta.vercel.app/)
-[![Documentation](https://img.shields.io/badge/📚_Documentation-46E3B7?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/shashi162003/URL_Shortener#readme)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003/URL_Shortener)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="220" alt="Building GIF"/>
-
-**🔨 More Exciting Projects Coming Soon!**
-
-_Stay tuned for innovative solutions and creative implementations!_
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Currently Learning & Growing
-
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="320" alt="Learning GIF"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shashi--kumar--gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-kumar-gupta-36668b239)
+[![Email](https://img.shields.io/badge/Email-shashikumargupta443@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashikumargupta443@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shashi162003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashi162003)
 
 </div>
 
 <div align="center">
-
-| 🚀 Technology               | 📚 Progress | 🎯 Goal                            |
-| --------------------------- | ----------- | ---------------------------------- |
-| **Advanced React Patterns** | 🟩🟩🟩⬜⬜  | Master Context, HOCs, Render Props |
-| **TypeScript**              | 🟩🟩🟩🟩⬜  | Full-stack type safety             |
-| **GraphQL**                 | 🟩🟩⬜⬜⬜  | API optimization & real-time data  |
-| **Docker & Kubernetes**     | 🟩🟩⬜⬜⬜  | Containerization & orchestration   |
-| **Next.js 14**              | 🟩🟩🟩⬜⬜  | Server-side rendering mastery      |
-
-</div>
-
----
-
-<div align="center">
-
-## 🌱 Let's Collaborate!
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpzMjN3bHA5bDczbG14cDc0d2FpcnVmMW9nNmpiZ3p5ZHdsb3NjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RVpcIhl5VwLK6jWbYc/giphy.gif" width="250" alt="Collaboration GIF"/>
-
-</div>
-
-<div align="center">
-
-### 🤝 I'm Looking To:
-
-🔥 **Collaborate on open source projects**
-💡 **Contribute to meaningful tech initiatives**
-🌐 **Connect with fellow developers worldwide**
-🚀 **Build innovative solutions together**
-📈 **Share knowledge and learn from the community**
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect & Build Something Amazing!
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxnNHV2dW9zanM5eHFsYzE1bWFiYnJuNmI2bXBrdjNmbDJ3dnVteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwHaQCGZMdD9Ghalrl/giphy.gif" width="200" alt="Connect GIF"/>
-
-### 📫 Reach Out To Me:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shashi-kumar-gupta-36668b239">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shashikumargupta443@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/shashi162003">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-### 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashi162003/shashi162003/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashi162003/shashi162003/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shashi162003/shashi162003/output/github-contribution-grid-snake.svg">
-  </picture>
-
-  <!-- Fallback while snake animation is generating -->
-  <br/>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBlZW1xMmNibHJoYWk2ejNkczhwa2FudTR1azVucW0zdnN6ZjQ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FPDZV2JGkNGeUZdi7G/giphy.gif" width="300" alt="Snake Game GIF"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%"/>
 </div>
