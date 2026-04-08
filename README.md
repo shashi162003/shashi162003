@@ -67,6 +67,27 @@ public class Shashi extends BackendEngineer {
 
 ## 🚀 Featured Projects
 
+### 🤖 Lovable — AI-Powered React App Builder
+> *Full-stack clone of Lovable.dev — Spring AI · Kubernetes · MinIO · Stripe*
+
+A production-grade backend that lets users chat with an LLM to generate, edit, preview, and deploy React applications in real time. Users describe what they want; the AI writes the code, saves it to object storage, and a Kubernetes runner pod serves a live Vite dev-server preview — all in a single conversation turn.
+
+| | |
+|---|---|
+| **Key highlights** | SSE streaming · Spring AI tool-calling · K8s pod pool · Redis wildcard routing · Stripe billing |
+| **Infrastructure** | PostgreSQL · MinIO (S3) · Redis · Apache Kafka · Kubernetes (Fabric8) · Node.js proxy |
+| **Frontend** | [project-companion ↗](https://github.com/shashi162003/project-companion) — React + TypeScript client |
+
+[![Backend](https://img.shields.io/badge/GitHub-Backend_Repo-181717?style=for-the-badge&logo=github)](https://github.com/shashi162003/lovable)
+[![Frontend](https://img.shields.io/badge/GitHub-Frontend_Repo-181717?style=for-the-badge&logo=github)](https://github.com/shashi162003/project-companion)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+---
+
 ### 🏨 Hotel Booking & Management System
 > *Production-grade REST API with end-to-end CI/CD — live on AWS*
 
@@ -130,14 +151,14 @@ A full-stack inventory platform that works entirely offline, syncing automatical
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashi162003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&ring_color=e94560"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi162003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-gamma-two-95.vercel.app/api?username=shashi162003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&ring_color=e94560&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-gamma-two-95.vercel.app/api/top-langs/?username=shashi162003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&langs_count=8&cache_seconds=1800&hide=html,css"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shashi162003&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shashi162003&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&dates=a8b2d8&sideLabels=a8b2d8&sideNums=e94560&stroke=0d1117)](https://git.io/streak-stats)
 
 </div>
 
